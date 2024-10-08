@@ -28,7 +28,8 @@ import android.print.PageRange;
 import android.print.PrintAttributes;
 import android.print.PrintDocumentAdapter;
 import android.print.PrintDocumentInfo;
-import android.support.annotation.NonNull;
+import android.support.annotation.TargetApi;
+import android.support.annotation.SuppressLint;
 import androidx.core.print.PrintHelper;
 
 import java.io.FileOutputStream;
