@@ -29,7 +29,7 @@ import android.print.PrintAttributes;
 import android.print.PrintDocumentAdapter;
 import android.print.PrintDocumentInfo;
 import android.support.annotation.NonNull;
-import android.support.v4.print.PrintHelper;
+import androidx.core.print.PrintHelper;
 
 import java.io.FileOutputStream;
 import java.io.IOException;
